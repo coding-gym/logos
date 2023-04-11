@@ -4,7 +4,7 @@ This repository contains official Coding Gym logo in different variants and colo
 
 ## Details
 
-<img src="logos/CodingGym.png" width="50%">
+<img src="https://github.com/coding-gym/logos/blob/main/logos/CodingGym-Logo.png" width="20%">
 
 Colors:
 - `#000000`
